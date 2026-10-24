@@ -1,0 +1,8 @@
+{
+  "updated": "2026-10-23",
+  "levels": [
+    { "label": "Resistance", "price": 29500 },
+    { "label": "Pivot", "price": 29350 },
+    { "label": "Support", "price": 29250 }
+  ]
+}

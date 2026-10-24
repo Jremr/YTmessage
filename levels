@@ -3,6 +3,11 @@
   "levels": [
     { "label": "Resistance", "price": 29500 },
     { "label": "Pivot", "price": 29350 },
+    { "label": "Support", "price": 29250 },
+    { "label": "BTC Upper", "price": 29350 },
+    { "label": BTC Lower", "price": 29350 },
+    { "label": "NQ Upper", "price": 29350 },
+    { "label": "NQ Lower", "price": 29350 },
     { "label": "Support", "price": 29250 }
   ]
 }

@@ -7,6 +7,6 @@
     { "label": "BTC Upper", "price": 29350 },
     { "label": "BTC Lower", "price": 29350 },
     { "label": "NQ Upper", "price": 29350 },
-    { "label": "NQ Lower", "price": 29350 },
+    { "label": "NQ Lower", "price": 29350 }
   ]
 }

@@ -5,9 +5,9 @@
     { "label": "Support", "price": 28400 },
     { "label": "NQ Upper", "price": 29210.75 },
     { "label": "NQ Lower", "price": 29116.50 },
-    { "label": "NQ Area of Interest", "price": 28700.75 },
+    { "label": "NQ AOI", "price": 28700.75 },
     { "label": "BTC Upper", "price": 83875 },
     { "label": "BTC Lower", "price": 84093.50 },
-    { "label": "BTC Area of Interest", "price": 84093.50 }
+    { "label": "BTC AOI", "price": 84093.50 }
   ]
 }

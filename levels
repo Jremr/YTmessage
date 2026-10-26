@@ -1,12 +1,14 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-26",
   "levels": [
     { "label": "Resistance", "price": 29800 },
     { "label": "Area of Interest", "price": 28700.75 },
     { "label": "Support", "price": 28400 },
     { "label": "NQ Upper", "price": 29210.75 },
     { "label": "NQ Lower", "price": 29116.50 },
+    { "label": "NQ Liq", "price": 29116.50 },
     { "label": "BTC Upper", "price": 83875 },
-    { "label": "BTC Lower", "price": 84093.50 }
+    { "label": "BTC Lower", "price": 84093.50 },
+    { "label": "BTC Liq", "price": 84093.50 }
   ]
 }

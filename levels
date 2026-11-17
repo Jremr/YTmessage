@@ -1,13 +1,13 @@
 {
   "updated": "2026-11-15",
   "levels": [
-    { "label": "Resistance", "price": "29005.25  |  68142.77" },
-    { "label": "Support", "price": "27601.25  |  62405.57" },
+    { "label": "Resistance", "price": "29005.25  |  66611.05" },
+    { "label": "Support", "price": "27601.25  |  63594.26" },
     { "label": "NQ Upper", "price": 28407.25 },
     { "label": "NQ Lower", "price": 27406.25 },
     { "label": "NQ AOI", "price": 27900.25 },
-    { "label": "BTC Upper", "price": 65196.86 },
-    { "label": "BTC Lower", "price": 63797.15 },
-    { "label": "BTC AOI", "price": 63000.75 }
+    { "label": "BTC Upper", "price": 69277.20 },
+    { "label": "BTC Lower", "price": 64882.88 },
+    { "label": "BTC AOI", "price": 64181.80 }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "levels": [
     { "label": "Resistance", "price": "29005.25  |  66400.05" },
-    { "label": "Support", "price": "27601.25  |  62397.24" },
+    { "label": "Support", "price": "27601.25  |  61224.66" },
     { "label": "NQ Upper", "price": 28407.25 },
     { "label": "NQ Lower", "price": 27406.25 },
     { "label": "NQ AOI", "price": 27900.25 },
